@@ -1,1 +1,9 @@
 /*stylesheet*/
+
+body {
+	margin: 20px;
+	background-color: black;
+	color: white;
+	font-family: 'Helvetica'
+	font-weight: 200;
+}
