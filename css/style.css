@@ -1,24 +1,30 @@
 /*stylesheet*/
-
 body {
-	margin: 20px;
-	background-color: black;
+	margin: 0;	
+	background: black;
 	color: white;
-	font-family: 'Helvetica'
+	font-family: 'Roboto Mono', monospace;
 	font-weight: 200;
 }
-div {
-	width: 300px;
-	height: 300px;
-	background: green;
-	margin: 20px;
-	padding: 20px;
+
+h1, h2 {
+	font-weight: 200;
 }
+
+div {
+	width: 600px;
+	height: 600px;
+	background: green;
+	margin: 2em;
+	padding: 2em;
+}
+
 div.red {
 	background: red;
 }
 /*selector class*/
+
 div #top {
 	background: blue
-}
 /*selector id*/
+
