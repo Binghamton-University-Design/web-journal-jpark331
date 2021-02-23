@@ -11,7 +11,7 @@ h1, h2 {
 	font-weight: 200;
 }
 
-div {
+/*div {
 	width: 600px;
 	height: 600px;
 	background: green;
@@ -22,9 +22,19 @@ div {
 div.red {
 	background: red;
 }
-/*selector class*/
+		selector class
 
 div #top {
 	background: blue
-/*selector id*/
+		selector id*/
 
+#wrapper {
+	margin: 2em auto;
+	max-width: 1200px;
+	padding: 0 2em;
+}
+
+#main {
+	width: 100%;
+	background: 
+}
