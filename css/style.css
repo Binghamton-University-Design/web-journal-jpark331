@@ -7,8 +7,14 @@ body {
 	font-weight: 200;
 }
 
+h1, h2, h3, h4, p {
+	margin-top: 0;
+	margin-bottom: 1em;
+}
+
 h1, h2 {
-	font-weight: 200;
+	font-weight: 400;
+	font: bold;
 }
 
 /*div {
@@ -17,9 +23,9 @@ h1, h2 {
 	background: green;
 	margin: 2em;
 	padding: 2em;
-}
+}*/
 
-div.red {
+/*div.red {
 	background: red;
 }
 		selector class
@@ -35,6 +41,36 @@ div #top {
 }
 
 #main {
-	width: 100%;
-	background: 
+	margin: 2em;
+	padding: 2em;
+	background: tan;
 }
+
+#sidebar {
+	background: brown;
+	padding: 1em;
+}
+
+#content {
+	background: red;
+	padding: 1em;
+}
+
+#header {
+	background: black;
+	padding: 1em;
+}
+
+@media (max-width: 699px) {
+
+	#wrapper {
+		margin: 0em auto
+	}
+
+	#main {
+		margin: 1em;
+		padding: 0em;
+	}
+
+}
+
