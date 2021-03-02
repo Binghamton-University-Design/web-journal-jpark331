@@ -42,16 +42,16 @@ div #top {
 #main {
 	margin: 2em;
 	padding: 2em;
-	background: tan;
+	background: black;
 }
 
 #sidebar {
-	background: brown;
+	background: black;
 	padding: 1em;
 }
 
 #content {
-	background: red;
+	background: black;
 	padding: 1em;
 }
 
