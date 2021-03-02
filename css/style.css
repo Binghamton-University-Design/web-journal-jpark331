@@ -76,6 +76,16 @@ div #top {
 	margin-bottom: 2em;
 }
 
+#nav ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0
+}
+
+#nav li {
+	margin-bottom: 1em;
+}
+
 @media (max-width: 699px) {
 
 	#wrapper {
@@ -90,6 +100,18 @@ div #top {
 	#logo {
 		text-align: center;
 		padding: 2em 0;
+	}
+
+	#nav ul {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	#nav li {
+		display: inline;
+		padding: .25em;
+		background: purple;
+		margin-bottom: 0;
 	}
 }
 
