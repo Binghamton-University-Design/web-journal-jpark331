@@ -40,7 +40,6 @@ div #top {
 }
 
 #main {
-	margin: 1em;
 	padding: 1em;
 	background: black;
 }
@@ -52,7 +51,7 @@ div #top {
 
 #content {
 	background: black;
-	padding: 1em;
+	padding: 0em;
 }
 
 #header {
@@ -61,7 +60,7 @@ div #top {
 }
 
 #logo {
-	padding: 3em 0;
+	padding: 1em 0;
 }
 
 #logo h1 {
