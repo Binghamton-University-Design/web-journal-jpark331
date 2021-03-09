@@ -60,8 +60,8 @@ div #top {
 }
 
 #logo {
-	padding: 1em 0;
-	margin-bottom: 1em;
+	padding: 0em 0;
+	margin-bottom: 2em;
 }
 
 #logo h1 {
@@ -102,7 +102,7 @@ div #top {
 }
 
 .quote-holder {
-	height: 40vh;
+	height: 100%;
 	background: black;
 	background-image: url("../images/killcom.png");
 	background-repeat: no-repeat;
@@ -111,6 +111,7 @@ div #top {
 	align-items: center;
 	justify-content: center;
 	padding: 0 3em;
+	color: black;
 }
 
 .quote {
