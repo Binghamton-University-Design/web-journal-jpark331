@@ -72,6 +72,7 @@ div #top {
 	width: 100%;
 	height: auto;
 	margin-bottom: 0;
+	display: block;
 }
 
 .item h1, h2, p {
@@ -134,13 +135,11 @@ div #top {
 }
 
 #exquisite {
-	display: block;
 	position: relative;
 	margin-bottom: 2em;
 }
 
 #exquisite .grid {
-	display: grid;
 	grid-gap: 0em;
 }
 
