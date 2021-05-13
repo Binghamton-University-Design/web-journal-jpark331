@@ -145,6 +145,7 @@ div #top {
 
 #exquisite .grid img {
 	margin-bottom: 0;
+	overflow: hidden;
 }
 
 #projects {
