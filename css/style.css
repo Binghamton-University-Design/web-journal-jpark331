@@ -176,6 +176,7 @@ div #top {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	margin-bottom: 3em;
 }
 
 #projects .grid-item:hover .overlay {
