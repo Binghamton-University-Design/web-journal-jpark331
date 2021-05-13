@@ -145,7 +145,6 @@ div #top {
 
 #exquisite .grid img {
 	margin-bottom: 0;
-	overflow: hidden;
 }
 
 #projects {
@@ -162,6 +161,7 @@ div #top {
 	display: block;
 	width: 100%;
 	height: auto;
+	overflow: hidden;
 }
 
 #projects .grid-item .overlay {
