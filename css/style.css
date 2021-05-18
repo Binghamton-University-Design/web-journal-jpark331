@@ -150,12 +150,12 @@ div #top {
 #projects {
 	margin-top: 2em;
 	margin-bottom: 2em;
+	padding-bottom: 4em;
 }
 
 #projects .grid-item {
 	color: white;
 	position: relative;
-	margin-bottom: 2em;
 }
 
 #projects .grid-item img {
