@@ -155,6 +155,7 @@ div #top {
 #projects .grid-item {
 	color: white;
 	position: relative;
+	margin-bottom: 2em;
 }
 
 #projects .grid-item img {
